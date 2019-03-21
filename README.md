@@ -7,4 +7,4 @@ It is published by [PCSOFT](http://www.pcsoft.com)
 
 More info: [WEBDEV](http://windev.com/webdev/index.html)
 
-Help: [English (available soon)](https://doc.windev.com/en-US/?3539080) / [Français](https://doc.pcsoft.fr/fr-FR/?3539080)
+Help: [English](https://doc.windev.com/en-US/?3539080) / [Français](https://doc.pcsoft.fr/fr-FR/?3539080)
